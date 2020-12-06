@@ -1,3 +1,10 @@
+/*
+ * This file is subject to the terms and conditions defined in
+ * file 'LICENSE', which is part of this source code package.
+ *
+ * The original author of this code is Josh Lospinoso (@jalospinoso).
+ * The unmodified source code can be found here: https://github.com/JLospinoso/cpp-implant
+*/
 #pragma once
 
 #define _SILENCE_CXX17_C_HEADER_DEPRECATION_WARNING
