@@ -1,0 +1,7 @@
+The original source code was written by Josh Lospinoso (@jalospinoso) and can be found here: https://github.com/JLospinoso/cpp-implant
+
+The changes made to the original source code can be described as follows:
+- 2020-12-05: 
+  - Make requests with C++ Requests (https://github.com/whoshuu/cpr) and consume JSON with JSON for Modern C++ (https://github.com/nlohmann/json)
+  - Removal of various implant tasks (ListTask, GetTask, DeleteTask, PutTask)
+  - Addition of source code comments throughout
