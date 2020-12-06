@@ -1,0 +1,18 @@
+[
+	{
+		"task_type":"ping"
+	},
+	{
+		"task_type":"configure",
+		"dwell":"10",
+		"running":"true"
+	},
+	{
+		"task_type":"list-threads",
+		"procid":"12984"
+	},
+	{
+		"task_type":"execute",
+		"command":"whoami"
+	}
+]
