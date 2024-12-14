@@ -52,7 +52,7 @@ class Results(Resource):
     def get(self):
         # Get all the result objects and return them to the user
         results = Result.objects().to_json()
-        return Response(results, mimetype="application.json", status=200)
+        return Response(results, mimetype="application/json", status=200)
 
     # AddResults
     def post(self):
